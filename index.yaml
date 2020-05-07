@@ -3,10 +3,10 @@ entries:
   azuremonitor-containers:
   - apiVersion: v1
     appVersion: 7.0.0-1
-    created: "2020-05-07T00:13:01.7172537-07:00"
+    created: "2020-05-07T13:01:56.541016-07:00"
     description: Helm chart for deploying Azure Monitor container monitoring agent
       in Kubernetes
-    digest: 087108a37961f309fc4f606ec7f3db6aa48546eb7aa775665803b01d29a19c9c
+    digest: 67f1cb4f41a38e7adce37d29737ed4e837361447047e67c116ffebfd6e877ee3
     home: https://docs.microsoft.com/en-us/azure/monitoring/monitoring-container-health
     icon: https://raw.githubusercontent.com/Microsoft/OMS-docker/ci_feature/img/azuremonitor-containers.svg
     keywords:
@@ -42,4 +42,4 @@ entries:
     urls:
     - https://rashmichandrashekar.github.io/azuremonitor-containers-charts-msi/azuremonitor-containers-2.9.0.tgz
     version: 2.9.0
-generated: "2020-05-07T00:13:01.7082535-07:00"
+generated: "2020-05-07T13:01:56.5380157-07:00"
